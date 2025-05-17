@@ -16,13 +16,11 @@ I'm new to GitHub and learning to build useful tools with Python. My main intere
 - 🖥️ Terminal scripting (CLI tools)
 - 🌐 Basics of networking and protocols
 
-## 📂 Sample Projects
 
-- **[Port Scanner Tool](https://github.com/yourusername/port-scanner)**  
-  A simple Python tool to scan open ports on a target IP.
+- **[Youtube Education Channel](https://www.youtube.com/@JustSHorTT)**  
+  This Channel is for Learning About Computers, Networks, etc.
 
-- **[File Backup Automation](https://github.com/yourusername/file-backup-tool)**  
-  Automatically copies and backs up selected folders.
+
 
 ## 🎯 Goals
 
@@ -30,11 +28,6 @@ I'm new to GitHub and learning to build useful tools with Python. My main intere
 - Build practical tools for system and network tasks  
 - Contribute to open source projects as I learn
 
-## 📫 Contact
 
-- Email: example@mail.com  
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-
----
 
 🧪 I'm in the learning phase, but planning to share more projects soon. Feel free to ⭐️ star a repo if you find it interesting!
